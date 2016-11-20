@@ -1,0 +1,7 @@
+name: Simple OAuth Query Param
+type: module
+description: 'The OAuth 2.0 Authorization Framework: Bearer Token Usage via Query Param'
+core: 8.x
+package: Authentication
+dependencies:
+  - simple_oauth
